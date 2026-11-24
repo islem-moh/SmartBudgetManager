@@ -53,5 +53,5 @@ A simple Excel workbook for tracking your monthly income and expenses in euros (
 
 ## More help
 
-The full instructions are in `SmartBudget_User_Guide_NameOfStudent_Group.pdf`. Support: support@example.com (replace with your own contact).
+The full instructions are in `SmartBudget_User_Guide_BrinisMohammedIslam_Group_04.pdf`. Support: support@example.com (replace with your own contact).
 
